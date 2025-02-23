@@ -1,12 +1,14 @@
-# PowerBI_Performance_Report
+# 📊 Plant Co. Performance Report 
 # Abdullah Hussain 
 
-Performance report for Plant Co. Gross profit, Quantity and sales for years 2023 & 2024
+🚀 **Analyzing Gross Profit, Quantity, and Sales for 2023 & 2024**  
 
-Charts used:
-- waterfall: YTD vs PYTD | Month -> Country -> Product 
-- treeplot: Bottom 10 countries in terms of YTD vs PYTD
-- scatter: YTD vs PYTD using months and fisal quarters
-- line and stacked column: Account profitability segmentation using averages for GP% 
+## 🔍 Visual Insights & Analytics  
+
+### 📈 Charts Used  
+- **📊 Waterfall Chart:** YTD vs PYTD | Drill-down: *Month → Country → Product*  
+- **🌳 Treeplot:** Bottom 10 countries in terms of YTD vs PYTD  
+- **🔵 Scatter Plot:** YTD vs PYTD across *Months & Fiscal Quarters*  
+- **📊📉 Line & Stacked Column Chart:** Account profitability segmentation using *GP% averages*  
 
 ![image](https://github.com/user-attachments/assets/8dca99bd-df90-47d9-ad91-e1c45b013913)
